@@ -4,7 +4,6 @@ import unittest
 import sys
 from app import app, db
 
-
 class BasicTests(unittest.TestCase):
 
     # executed prior to each test
